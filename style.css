@@ -1,0 +1,35 @@
+body {
+background: linear-gradient(to right, #328CC1 , navajowhite);
+text-align: center;
+color: #0B3C5D;
+font-family: monospace;
+font-size: 20px;
+letter-spacing: 4px;
+line-height: 200%;
+}
+img.resize {
+    max-width:25%;
+   max-height:25%;
+   float: left;
+   margin: 10px;
+   box-shadow: 8px 8px 10px #aaa;
+}
+p.code {
+    color: navajowhite;
+}
+img.resize2 {
+    max-width:75%;
+    max-height:75%;
+    border-radius: 20%;
+    box-shadow: 8px 8px 10px #aaa;
+}
+h1 {
+    color: #1D2731;
+}
+img.resize3 {
+    max-width:70%;
+   max-height:70%;
+   float: left;
+   margin: 10px;
+   box-shadow: 8px 8px 10px #aaa;
+}
